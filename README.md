@@ -7,7 +7,7 @@
 - Software Development
 
 ## 🌱 I’m currently learning ...
-- Advanced Windows Server Management
+- Windows Server Management
 - Office 365 Administration
 - Cloud Computing (Azure, AWS)
 - Scripting and Automation (PowerShell, Python)
