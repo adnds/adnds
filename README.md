@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @adnds
+# 👋 Hi, I’m Adilson.
 
 ## 👀 I’m interested in ...
 - Technology
