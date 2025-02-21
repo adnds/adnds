@@ -9,7 +9,7 @@
 ## 🌱 I’m currently learning ...
 - Windows Server Management
 - Office 365 Administration
-- Cloud Computing (Azure, AWS)
+- Cloud Computing (Azure)
 - Scripting and Automation (PowerShell, Python)
 
 ## 💞️ I’m looking to collaborate on ...
