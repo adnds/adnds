@@ -10,7 +10,7 @@
 - Windows Server Management
 - Office 365 Administration
 - Cloud Computing (Azure)
-- Scripting and Automation (PowerShell, Python)
+- Scripting and Automation (C, Python)
 
 ## 💞️ I’m looking to collaborate on ...
 - Open-source projects related to system administration
